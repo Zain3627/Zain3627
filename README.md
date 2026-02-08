@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Zain Tamer</h1>
 
-<h3 align="center">Machine Learning Engineer | Deep Learning | Computer Vision</h3>
+<h3 align="center">Machine Learning Engineer | Deep Learning | Computer Vision | Artificial Intelligence Researcher</h3>
 
 <p align="center">
  <a href="#about-me-">About</a> •
