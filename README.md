@@ -66,10 +66,6 @@ Aspiring Machine Learning and AI Engineer with a strong passion for deep learnin
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-
-
-![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zain3627&show_icons=true&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zain3627&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 <h2 id="projects-">✨ Projects</h2>
