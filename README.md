@@ -67,10 +67,9 @@ Aspiring Machine Learning and AI Engineer with a strong passion for deep learnin
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zain3627&theme=tokyonight)](https://git.io/streak-stats)
+
 ![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zain3627&show_icons=true&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zain3627&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Zain's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zain3627&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 <h2 id="projects-">✨ Projects</h2>
